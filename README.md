@@ -14,11 +14,10 @@
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/your-username/your-repo-name/raw/main/YourResume.pdf" target="_blank">
+  <a href="https://github.com/omkar086/omkar086/raw/main/YourResume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
 
 ###
 
@@ -30,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">💻 Full-Stack Developer with Python, Django, HTML/CSS, and JavaScript<br><br>☁️ Familiar with AWS (EC2, S3, IAM), Docker, and Linux<br><br>🧠 Interest in AI/ML – built projects like Sentiment Analysis using NLP<br><br>🛠️ Experience with SQL, REST APIs, and Git for version control<br><br>🚀 Always learning and building to grow as a software engineer</p>
 
 ###
 
