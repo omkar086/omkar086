@@ -67,10 +67,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar086&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar086&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
