@@ -14,7 +14,7 @@
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/omkar086/omkar086/raw/main/YourResume.pdf" target="_blank">
+  <a href="https://github.com/omkar086/omkar086/raw/main/Omkar-Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
